@@ -1,4 +1,4 @@
-# Project Title
+# WCTC Debugging and Unit Testing with xUnit
 
 WCTC Example of using xUnit for unit testing
 
@@ -10,9 +10,7 @@ Follow along in class and use this as a foundation for instruction
 
 To create your own example, you can refer to the following Microsoft documentation.
 
-```
 [Unit testing C# in .NET Core using dotnet test and xUnit](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
-```
 
 ### Installing
 
